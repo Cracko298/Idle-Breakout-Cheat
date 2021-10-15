@@ -12,4 +12,10 @@ Which is probably the case because 95% of people using this are in class at the 
 
 ![image](https://user-images.githubusercontent.com/78656905/137365777-52f84fd4-d791-42fb-924a-a0ede6c0f257.png)
 
-(I made this in my Networking class during free-time).
+(I made this in my free-time in class).
+
+Code written by: Phinehas Beresford (Crako)
+
+Github Account: https://github.com/Cracko298
+
+Have Fun ;)
