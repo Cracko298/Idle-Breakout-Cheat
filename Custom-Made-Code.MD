@@ -8,14 +8,13 @@ Or something around that name.
 
 *Note: Found out that github spaces out my cache dump. So make sure that when you do paste it into the developer console storage. That it looks like this:
 
-![image](https://user-images.githubusercontent.com/78656905/137368170-66e3e3b4-b3a9-4216-9c59-4e85f2389ef4.png)
-
-
 Code written by: Phinehas Beresford (Crako)
 
 Github Account: https://github.com/Cracko298
 
 Have Fun ;)
+
+![image](https://user-images.githubusercontent.com/78656905/137368170-66e3e3b4-b3a9-4216-9c59-4e85f2389ef4.png)
 
 [main]
 
