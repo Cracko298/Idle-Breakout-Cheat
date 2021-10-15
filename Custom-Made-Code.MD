@@ -10,6 +10,13 @@ Or something around that name.
 
 ![image](https://user-images.githubusercontent.com/78656905/137368170-66e3e3b4-b3a9-4216-9c59-4e85f2389ef4.png)
 
+
+Code written by: Phinehas Beresford (Crako)
+
+Github Account: https://github.com/Cracko298
+
+Have Fun ;)
+
 [main]
 
 level="1e+49"
